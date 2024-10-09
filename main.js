@@ -1,3 +1,3 @@
 function criaCartao() {
-  let container = document.getElementById  
+  let container = document.getElementById(container)  
 }
