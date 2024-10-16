@@ -35,13 +35,13 @@ text-align: center;
     height: 20rem;
 }
 
-conteudo-cartao{
+.conteudo-cartao{
     background-color: var(--cartao-frente);
     text-align: center;
     height: 100%;
 }
 
-conteudo-cartao h3{
+.conteudo-cartao h3{
     color: var(--destaque);
     border: 1px solid var(--destaque);
     position: absolute;
