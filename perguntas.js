@@ -33,29 +33,29 @@ criaCartao
                         '3.14')
 
 criaCartao           
-    ('História', '13.Assumiu o governo, após a saída de Vargas',
+    ('História', '12.Assumiu o governo, após a saída de Vargas',
                         'Dutra')
 
 criaCartao
-    ('Biologia', '14. Quem foi Mendel?', 'Biólogo e botânico austríaco')
+    ('Biologia', '13. Quem foi Mendel?', 'Biólogo e botânico austríaco')
 
 criaCartao
-    ('O que é ligação covalente?', '15. Uma ligação covalente é a união entre dois átomos que compartilham pares de elétrons para alcançar maior estabilidade.')
+    ('O que é ligação covalente?', '14. Uma ligação covalente é a união entre dois átomos que compartilham pares de elétrons para alcançar maior estabilidade.')
 
 criaCartao
-    ('Português', '16. O que é uma metáfora?', 'Uma metáfora é uma comparação implícita entre duas coisas.')
+    ('Português', '15. O que é uma metáfora?', 'Uma metáfora é uma comparação implícita entre duas coisas.')
 
 criaCartao
-    ('programação', '17.Qual é a saída do seguinte código em Python? ', ' A saída é `[1, 3, 5]`. O fatiamento `x[::2]` seleciona todos os elementos da lista `x` com um passo de 2.')
+    ('programação', '16.Qual é a saída do seguinte código em Python? ', ' A saída é `[1, 3, 5]`. O fatiamento `x[::2]` seleciona todos os elementos da lista `x` com um passo de 2.')
 
 criaCartao
-    ('química', '18.O que é um ácido?', 'É uma substância que libera íons hidrogênio (H⁺) em solução aquosa.')
+    ('química', '17.O que é um ácido?', 'É uma substância que libera íons hidrogênio (H⁺) em solução aquosa.')
 
 criaCartao
-    ('história', '19. O que foi a Inconfidência Mineira?', 'Foi uma tentativa de independência em Minas Gerais no final do século XVIII contra o domínio português.')
+    ('história', '18. O que foi a Inconfidência Mineira?', 'Foi uma tentativa de independência em Minas Gerais no final do século XVIII contra o domínio português.')
 
 criaCartao
-    ('Geografia', '20. O que é um rio de planície?', 'É um rio que flui por áreas baixas, com um curso largo e menos inclinado.')
+    ('Geografia', '19. O que é um rio de planície?', 'É um rio que flui por áreas baixas, com um curso largo e menos inclinado.')
 
 criaCartao
-    ('Biologia', 'Qual é a função das mitocôndrias?', 'Produzir energia (ATP) através da respiração celular.')
+    ('Biologia', '20. Qual é a função das mitocôndrias?', 'Produzir energia (ATP) através da respiração celular.')
