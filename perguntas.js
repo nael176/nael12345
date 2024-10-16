@@ -40,7 +40,7 @@ criaCartao
     ('Biologia', '13. Quem foi Mendel?', 'Biólogo e botânico austríaco')
 
 criaCartao
-    ('O que é ligação covalente?', '14. Uma ligação covalente é a união entre dois átomos que compartilham pares de elétrons para alcançar maior estabilidade.')
+    ('Quimica','O que é ligação covalente?', '14. Uma ligação covalente é a união entre dois átomos que compartilham pares de elétrons para alcançar maior estabilidade.')
 
 criaCartao
     ('Português', '15. O que é uma metáfora?', 'Uma metáfora é uma comparação implícita entre duas coisas.')
