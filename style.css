@@ -27,9 +27,9 @@ header a{
 footer {
     position: fixed;
     bottom: 0;
-    background-color: var(--preto);
-    color: var(--branco);
-    width: 100;
+    background-color: var(--branco);
+    color: var(--preto);
+    width: 100%;
     text-align: center;
 
 }
