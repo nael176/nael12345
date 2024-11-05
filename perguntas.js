@@ -1,61 +1,120 @@
-criaCartao
-    ('matemática', '1. O que é uma equação do segundo grau?', 'É uma conta com \(x^2\), como \(x^2 + 3x + 2 = 0\).')
-
-criaCartao
-    ('Programação', '2. O que é um loop em programação?', 'Um loop é uma estrutura que repete um bloco de código várias vezes até que uma condição seja atendida ou deixe de ser verdadeira.')
-
-criaCartao
-    ('química', '3. O que é um átomo?', 'É a menor parte que forma tudo ao nosso redor.')
-
-criaCartao
-    ('biologia', '4. O que é fotossíntese?', 'É o processo pelo qual as plantas usam a luz do sol para fazer comida.')
-
-criaCartao
-    ('história', '5. Quem foi o primeiro presidente do Brasil?', 'Foi o Marechal Deodoro da Fonseca.')
-
-criaCartao
-    ('português', '6. O que é um verbo?', 'É uma palavra que indica ação, como correr, falar e comer.')
-
-criaCartao
-    ('geografia', '7. O que são os continentes', 'Grandes pedaços de terra como a África e a Ásia.')
-
-criaCartao
-    ('matemática', '8. Qual é a fórmula da área de um triângulo?', 'É a base vezes a altura, dividido por 2.')
-
-criaCartao
-    ('programação', '9. O que é uma variável em programação?', 'Uma variável é um nome que usamos para guardar um valor, como um número ou uma palavra, no código.')
-
-criaCartao
-    ('química', '10. O que é um elemento químico?', 'uma substância básica, como ouro ou oxigênio.')
-
-criaCartao
-    ('Matemática', ' 11. Qual o valor de pi?',
-                        '3.14')
-
-criaCartao           
-    ('História', '12.Assumiu o governo, após a saída de Vargas',
-                        'Dutra')
-
-criaCartao
-    ('Biologia', '13. Quem foi Mendel?', 'Biólogo e botânico austríaco')
-
-criaCartao
-    ('Quimica','O que é ligação covalente?', '14. Uma ligação covalente é a união entre dois átomos que compartilham pares de elétrons para alcançar maior estabilidade.')
-
-criaCartao
-    ('Português', '15. O que é uma metáfora?', 'Uma metáfora é uma comparação implícita entre duas coisas.')
-
-criaCartao
-    ('programação', '16.Qual é a saída do seguinte código em Python? ', ' A saída é `[1, 3, 5]`. O fatiamento `x[::2]` seleciona todos os elementos da lista `x` com um passo de 2.')
-
-criaCartao
-    ('química', '17.O que é um ácido?', 'É uma substância que libera íons hidrogênio (H⁺) em solução aquosa.')
-
-criaCartao
-    ('história', '18. O que foi a Inconfidência Mineira?', 'Foi uma tentativa de independência em Minas Gerais no final do século XVIII contra o domínio português.')
-
-criaCartao
-    ('Geografia', '19. O que é um rio de planície?', 'É um rio que flui por áreas baixas, com um curso largo e menos inclinado.')
-
-criaCartao
-    ('Biologia', '20. Qual é a função das mitocôndrias?', 'Produzir energia (ATP) através da respiração celular.')
+criaCartao(
+    'Matemática',
+    'O que é o teorema de Pitágoras?',
+    'O teorema de Pitágoras afirma que, em um triângulo retângulo, o quadrado da hipotenusa é igual à soma dos quadrados dos catetos.'
+    )
+    
+    criaCartao(
+    'História',
+    'Quem foi o ultimo presidente do Brasil?',
+    'Luiz Inácio Lula da Silva,foi o ultimo presidente do Brasil.'
+    )
+    
+    criaCartao(
+    'Geografia',
+    'Qual é o menor continente do mundo?',
+    'A Oceania é o menor continente do planeta, com 8. 526,000 km².'
+    )
+    
+    criaCartao(
+    'Ciências',
+    'Qual é a fórmula química do acido sulfurico?',
+    'A fórmula química do acido sulfurico é H₂SO₄.'
+    )
+    
+    criaCartao(
+    'Literatura',
+    'Quem escreveu "Dom Quixote"?',
+    'Miguel de Cervantes escreveu "Dom Quixote".'
+    )
+    
+    criaCartao(
+    'Biologia',
+    'Quais sao os 3 tipos de biologia?',
+    'biologia celular molecular e biofisica.'
+    )
+    
+    criaCartao(
+    'Física',
+    'qual a velocidade da luz?',
+    '299 792 458 ms '
+    
+    )
+    
+    criaCartao(
+    'Química',
+    'O que é um átomo?',
+    'Um átomo é a menor unidade de matéria que mantém as propriedades de um elemento.'
+    )
+    
+    criaCartao(
+    'Matemática',
+    'O que é uma fração?',
+    'Uma fração representa uma parte de um todo dividido em partes iguais.'
+    )
+    
+    criaCartao(
+    'História',
+    'Quando ocorreu a Revolução Francesa?',
+    'A Revolução Francesa ocorreu em 1789.'
+    )
+    
+    criaCartao(
+    'Geografia',
+    'Qual é o menor rio do mundo?',
+    'rio Reprua.'
+    )
+    
+    criaCartao(
+    'Ciências',
+    'O que é fotossíntese?',
+    'Fotossíntese é o processo pelo qual as plantas produzem alimento utilizando luz solar.'
+    )
+    
+    criaCartao(
+    'Literatura',
+    'Quem escreveu "Memórias Póstumas de Brás Cubas"?',
+    'Machado de Assis escreveu "Memórias Póstumas de Brás Cubas".'
+    )
+    
+    criaCartao(
+    'Biologia',
+    'O que é DNA?',
+    'O DNA é uma molécula que contém as instruções genéticas usadas no desenvolvimento e funcionamento de todos os organismos vivos.'
+    )
+    
+    criaCartao(
+    'Física',
+    'O que é gravidade?',
+    'Gravidade é a força que atrai dois corpos um ao outro.'
+    )
+    
+    criaCartao(
+    'Química',
+    'O que é pH?',
+    'pH é uma escala que mede o quão ácida ou básica uma solução é.'
+    )
+    
+    criaCartao(
+    'Matemática',
+    'O que é uma equação?',
+    'Uma equação é uma expressão matemática que afirma que duas coisas são iguais.'
+    )
+    
+    criaCartao(
+    'História',
+    'Quem foi Napoleão Bonaparte?',
+    'Napoleão Bonaparte foi um líder militar e imperador francês que governou grande parte da Europa no início do século XIX.'
+    )
+    
+    criaCartao(
+    'Geografia',
+    'Qual é a capital da china?',
+    'A capital da china é Pequim.'
+    )
+    
+    criaCartao(
+    'Ciências',
+    'O que é energia?',
+    'Energia é a capacidade de realizar trabalho ou causar mudanças.'
+    )
